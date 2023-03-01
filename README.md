@@ -24,4 +24,5 @@
 
 ## 🫠課程簡報
 > #### [week 1 Introduction](https://docs.google.com/presentation/d/e/2PACX-1vSInSmBw4pmnFj-4BoVDQcXDkXJ23WMGXBWPkHTTm99t0rigaeIYzMpjC8Q7nKu9SZWeNAs6q1Wy5ZE/pub?start=false&loop=false&delayms=3000&slide=id.p)
+> #### [week 2 結構化資料](https://docs.google.com/presentation/d/e/2PACX-1vT-TbdyqnFFYyOREkTHFGj8OMr3z4-77otHUtDB1PZk_hy4H1sO0_ZXdsaTg1qping-CP_2kEhcvlu0/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
