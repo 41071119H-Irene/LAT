@@ -11,8 +11,9 @@
 + [**專題連結**](https://github.com/41071119H-Irene/LAT#%EF%B8%8F%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90)
 + [**課程簡報**](https://github.com/41071119H-Irene/LAT#%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1)
 
-## :pencil:課程筆記
+## :pencil:課程task
 ### 課程介紹
+### [W2_Assiginment](https://github.com/41071119H-Irene/LAT/blob/main/W2/W2_Assignment.ipynb)
 ##### 使用軟體
  - [GitHub](https://github.com/41071119H-Irene/LAT)
  - 
