@@ -13,7 +13,7 @@
 
 ## :pencil:課程task
 ### 課程介紹
-### [W2_Assiginment](https://github.com/41071119H-Irene/LAT/blob/main/W2/W2_Assignment.ipynb)
+##### [W2_Assiginment](https://github.com/41071119H-Irene/LAT/blob/main/W2/W2_Assignment.ipynb)
 ##### 使用軟體
  - [GitHub](https://github.com/41071119H-Irene/LAT)
  - 
