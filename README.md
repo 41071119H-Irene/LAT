@@ -16,8 +16,8 @@
 ##### [W2_Assiginment](https://github.com/41071119H-Irene/LAT/blob/main/W2/W2_Assignment.ipynb)
 ##### 使用軟體
  - [GitHub](https://github.com/41071119H-Irene/LAT)
- - 
-##### 課程排程
+##### 資料視覺化
+ - [Plotly](https://plotly.com/python/)
 
 ## 🙌作業連結
 > #### [作業一- 補習班問題*10](https://github.com/41071119H-Irene/LAT/blob/main/W2/Homework%201_0315.ipynb)
@@ -27,4 +27,5 @@
 ## 🫠課程簡報
 > #### [week 1 Introduction](https://docs.google.com/presentation/d/e/2PACX-1vSInSmBw4pmnFj-4BoVDQcXDkXJ23WMGXBWPkHTTm99t0rigaeIYzMpjC8Q7nKu9SZWeNAs6q1Wy5ZE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > #### [week 2 結構化資料](https://docs.google.com/presentation/d/e/2PACX-1vT-TbdyqnFFYyOREkTHFGj8OMr3z4-77otHUtDB1PZk_hy4H1sO0_ZXdsaTg1qping-CP_2kEhcvlu0/pub?start=false&loop=false&delayms=3000&slide=id.p)
+> #### [week 5 資料視覺化]()
 
