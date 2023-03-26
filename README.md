@@ -21,7 +21,7 @@
 
 ## 🙌作業連結
 > #### [作業一- 補習班問題*10](https://github.com/41071119H-Irene/LAT/blob/main/Data%20Analysis/Homework%201_0315.ipynb)
-> #### [作業二= 資料視覺化](https://github.com/41071119H-Irene/LAT/blob/main/Data%20Analysis/Homework%202_0322.ipynb)
+> #### [作業二- 資料視覺化](https://github.com/41071119H-Irene/LAT/blob/main/Data%20Analysis/Homework%202_0322.ipynb)
 ## 📽️專題連結
 
 
