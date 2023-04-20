@@ -16,6 +16,7 @@
 ##### [W2_Assiginment](https://github.com/41071119H-Irene/LAT/blob/main/W2/W2_Assignment.ipynb)
 ##### 使用軟體
  - [GitHub](https://github.com/41071119H-Irene/LAT)
+ - [Microsoft Azure for Students](https://portal.azure.com/#home)
 ##### 資料視覺化
  - [Plotly](https://plotly.com/python/)
 
