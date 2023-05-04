@@ -1,8 +1,8 @@
 # 會回你的 ChatBot
 ***
- #### 說明
- #### 實際互動結果
- #### 重點code 回顧
+ #### [說明](https://github.com/41071119H-Irene/LAT/tree/main/Homework%204#%E8%AA%AA%E6%98%8E-1)
+ #### [實際互動結果](https://github.com/41071119H-Irene/LAT/tree/main/Homework%204#%E5%AF%A6%E9%9A%9B%E4%BA%92%E5%8B%95%E7%B5%90%E6%9E%9C-1)
+ #### [重點code 回顧](https://github.com/41071119H-Irene/LAT/tree/main/Homework%204#%E9%87%8D%E9%BB%9E-code-%E5%9B%9E%E9%A1%A7)
 ***
 ## 說明
 ### 作業分成 3 個 Level
