@@ -1,8 +1,9 @@
 # 電腦幫你看圖 - MS Cognitive Services Computer Vision API 
 ***
- #### [說明]()
- #### [實際互動結果]()
- #### [重點code 回顧]()
+ #### [說明](https://github.com/41071119H-Irene/LAT/blob/main/Homework%205/README.md#%E8%AA%AA%E6%98%8E-1)
+ #### [實際互動結果](https://github.com/41071119H-Irene/LAT/blob/main/Homework%205/README.md#%E5%AF%A6%E9%9A%9B%E4%BA%92%E5%8B%95%E7%B5%90%E6%9E%9C-1)
+ #### [重點code 回顧](https://github.com/41071119H-Irene/LAT/blob/main/Homework%205/README.md#%E9%87%8D%E9%BB%9E-code-%E5%9B%9E%E9%A1%A7)
+ #### [限制](https://github.com/41071119H-Irene/LAT/blob/main/Homework%205/README.md#%E9%99%90%E5%88%B6)
 ***
 ## 說明
 ### 功能
